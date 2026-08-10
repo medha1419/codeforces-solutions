@@ -6,24 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 12 |
+| 58 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (9)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [brute force](#brute-force) (14)
+- [constructive algorithms](#constructive-algorithms) (10)
 - [dp](#dp) (2)
-- [greedy](#greedy) (10)
+- [games](#games) (2)
+- [greedy](#greedy) (22)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (9)
-- [math](#math) (14)
-- [number theory](#number-theory) (1)
-- [sortings](#sortings) (1)
-- [strings](#strings) (4)
-- [two pointers](#two-pointers) (2)
+- [implementation](#implementation) (15)
+- [math](#math) (29)
+- [number theory](#number-theory) (3)
+- [sortings](#sortings) (8)
+- [strings](#strings) (5)
+- [two pointers](#two-pointers) (3)
 
 ---
 
@@ -40,20 +41,32 @@
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/279/B%20-%20Books/solution.cpp) |
 | 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/327/A%20-%20Flipping%20Game/solution.cpp) |
+| 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
+| 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
+| 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2009B | [osu!mania](https://codeforces.com/contest/2009/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2009/B%20-%20osu!mania/solution.cpp) |
 | 2094B | [Bobritto Bandito](https://codeforces.com/contest/2094/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2094/B%20-%20Bobritto%20Bandito/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
 | 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
+| 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
 
 ### constructive algorithms
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1405B | [Array Cancellation](https://codeforces.com/contest/1405/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1405/B%20-%20Array%20Cancellation/solution.cpp) |
+| 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
+| 1831A | [Twin Permutations](https://codeforces.com/contest/1831/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1831/A%20-%20Twin%20Permutations/solution.cpp) |
+| 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
+| 1862B | [Sequence Game](https://codeforces.com/contest/1862/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1862/B%20-%20Sequence%20Game/solution.cpp) |
 | 2094B | [Bobritto Bandito](https://codeforces.com/contest/2094/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2094/B%20-%20Bobritto%20Bandito/solution.cpp) |
 | 2131B | [Alternating Series](https://codeforces.com/contest/2131/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2131/B%20-%20Alternating%20Series/solution.cpp) |
+| 2148D | [Destruction of the Dandelion Fields](https://codeforces.com/contest/2148/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2148/D%20-%20Destruction%20of%20the%20Dandelion%20Fields/solution.cpp) |
+| 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
+| 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.cpp) |
 
 ### dp
 
@@ -62,6 +75,13 @@
 | 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/327/A%20-%20Flipping%20Game/solution.cpp) |
 | 2126B | [No Casino in the Mountains](https://codeforces.com/contest/2126/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2126/B%20-%20No%20Casino%20in%20the%20Mountains/solution.cpp) |
 
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -69,6 +89,13 @@
 | 1406A | [Subset Mex](https://codeforces.com/contest/1406/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1406/A%20-%20Subset%20Mex/solution.cpp) |
 | 1509B | [TMT Document](https://codeforces.com/contest/1509/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1509/B%20-%20TMT%20Document/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
+| 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
+| 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
+| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
+| 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
+| 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2094D | [Tung Tung Sahur](https://codeforces.com/contest/2094/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2094/D%20-%20Tung%20Tung%20Sahur/solution.cpp) |
 | 2126B | [No Casino in the Mountains](https://codeforces.com/contest/2126/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2126/B%20-%20No%20Casino%20in%20the%20Mountains/solution.cpp) |
 | 2126C | [I Will Definitely Make It](https://codeforces.com/contest/2126/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2126/C%20-%20I%20Will%20Definitely%20Make%20It/solution.cpp) |
@@ -76,6 +103,11 @@
 | 2131B | [Alternating Series](https://codeforces.com/contest/2131/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2131/B%20-%20Alternating%20Series/solution.cpp) |
 | 2132C1 | [The Cunning Seller (easy version)](https://codeforces.com/contest/2132/problem/C1) | 1000 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2132/C1%20-%20The%20Cunning%20Seller%20(easy%20version)/solution.cpp) |
 | 2148C | [Pacer](https://codeforces.com/contest/2148/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2148/C%20-%20Pacer/solution.cpp) |
+| 2148D | [Destruction of the Dandelion Fields](https://codeforces.com/contest/2148/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2148/D%20-%20Destruction%20of%20the%20Dandelion%20Fields/solution.cpp) |
+| 2149B | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2149/B%20-%20Unconventional%20Pairs/solution.cpp) |
+| 2149C | [MEX rose](https://codeforces.com/contest/2149/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2149/C%20-%20MEX%20rose/solution.cpp) |
+| 2156A | [Pizza Time](https://codeforces.com/contest/2156/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2156/A%20-%20Pizza%20Time/solution.cpp) |
+| 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.cpp) |
 
 ### hashing
 
@@ -93,17 +125,36 @@
 | 1405B | [Array Cancellation](https://codeforces.com/contest/1405/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1405/B%20-%20Array%20Cancellation/solution.cpp) |
 | 1406A | [Subset Mex](https://codeforces.com/contest/1406/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1406/A%20-%20Subset%20Mex/solution.cpp) |
 | 1714A | [Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1714/A%20-%20Everyone%20Loves%20to%20Sleep/solution.cpp) |
+| 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
+| 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
+| 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
+| 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
+| 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 2009B | [osu!mania](https://codeforces.com/contest/2009/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2009/B%20-%20osu!mania/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
+| 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1406A | [Subset Mex](https://codeforces.com/contest/1406/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1406/A%20-%20Subset%20Mex/solution.cpp) |
 | 1714A | [Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1714/A%20-%20Everyone%20Loves%20to%20Sleep/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
+| 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
+| 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
+| 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
+| 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
+| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
+| 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
+| 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
+| 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
+| 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
+| 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2009/A%20-%20Minimize!/solution.cpp) |
 | 2093A | [Ideal Generator](https://codeforces.com/contest/2093/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2093/A%20-%20Ideal%20Generator/solution.cpp) |
 | 2123A | [Blackboard Game](https://codeforces.com/contest/2123/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2123/A%20-%20Blackboard%20Game/solution.cpp) |
@@ -115,18 +166,29 @@
 | 2132C1 | [The Cunning Seller (easy version)](https://codeforces.com/contest/2132/problem/C1) | 1000 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2132/C1%20-%20The%20Cunning%20Seller%20(easy%20version)/solution.cpp) |
 | 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.cpp) |
 | 2148C | [Pacer](https://codeforces.com/contest/2148/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2148/C%20-%20Pacer/solution.cpp) |
+| 2149A | [Be Positive](https://codeforces.com/contest/2149/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2149/A%20-%20Be%20Positive/solution.cpp) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
+| 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2126C | [I Will Definitely Make It](https://codeforces.com/contest/2126/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2126/C%20-%20I%20Will%20Definitely%20Make%20It/solution.cpp) |
+| 2148D | [Destruction of the Dandelion Fields](https://codeforces.com/contest/2148/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2148/D%20-%20Destruction%20of%20the%20Dandelion%20Fields/solution.cpp) |
+| 2149B | [Unconventional Pairs](https://codeforces.com/contest/2149/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2149/B%20-%20Unconventional%20Pairs/solution.cpp) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
+| 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
+| 2167C | [Isamatdin and His Magic Wand!](https://codeforces.com/contest/2167/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2167/C%20-%20Isamatdin%20and%20His%20Magic%20Wand!/solution.cpp) |
 
 ### strings
 
@@ -136,12 +198,14 @@
 | 2094A | [Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2094/A%20-%20Trippi%20Troppi/solution.cpp) |
 | 2094D | [Tung Tung Sahur](https://codeforces.com/contest/2094/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2094/D%20-%20Tung%20Tung%20Sahur/solution.cpp) |
 | 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
+| 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2167/B%20-%20Your%20Name/solution.cpp) |
 
 ### two pointers
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/279/B%20-%20Books/solution.cpp) |
+| 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
 | 2094D | [Tung Tung Sahur](https://codeforces.com/contest/2094/problem/D) | 1100 | [C++17 (GCC 7-32)](https://github.com/medha1419/codeforces-solutions/blob/HEAD/2094/D%20-%20Tung%20Tung%20Sahur/solution.cpp) |
 
 ---
